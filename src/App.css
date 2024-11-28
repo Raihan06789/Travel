@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Griffy&family=Henny+Penny&family=Poppins&display=swap');s
+
+.body{
+  /* font-family: 'Fruktur', cursive;
+  font-family: 'Griffy', cursive; */
+  font-family: 'Poppins', sans-serif;
+}
+a,i{
+  cursor: pointer;
+}
+.heading h3 {
+  font-family: 'Fruktur', cursive;
+}
+.heading h1 {
+  font-family: 'Griffy', cursive;
+}
